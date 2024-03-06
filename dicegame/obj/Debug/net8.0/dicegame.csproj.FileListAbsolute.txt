@@ -1,0 +1,15 @@
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.AssemblyInfoInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.AssemblyInfo.cs
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.csproj.CoreCompileInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.sourcelink.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/bin/Debug/net8.0/dicegame
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/bin/Debug/net8.0/dicegame.deps.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/bin/Debug/net8.0/dicegame.runtimeconfig.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/bin/Debug/net8.0/dicegame.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/bin/Debug/net8.0/dicegame.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/refint/dicegame.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/dicegame.genruntimeconfig.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-DiceGame/dicegame/obj/Debug/net8.0/ref/dicegame.dll
